@@ -1,8 +1,39 @@
 
 body{
     font-family: 'Uchen', serif;
-    margin: 0%;
+    marg
+    in: 0%;
 }
+nav{
+    background-color: rgb(238, 7, 134);
+    width: 100%;
+    overflow: auto;
+} 
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+li{
+    float: right;
+}
+nav a{
+    width: 120px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: #594848;
+    font-size: 17px;
+    color: white;
+    padding: 20px 10px;
+    font-family: arial;
+}
+nav a:hover{
+    background-color: violet;
+    color: black;
+}
+
 h1{
     font-size: 50px;
 }
