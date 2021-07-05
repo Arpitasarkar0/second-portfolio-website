@@ -1,1 +1,40 @@
 
+body{
+    font-family: 'Uchen', serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.top-banner{
+    display: flex;
+}
+.font{
+    width: 50%;
+    padding-right: 5px;
+    margin: 5%;
+}
+#width{
+    width: 65%;
+}
+.center{
+    text-align: center;
+}
+.size{
+    color: darkmagenta;
+}
+.photo{
+    display: flex;
+   
+}
+.G{
+    width: 40%;
+
+}
+.rd{
+    display: flex;
+}
+.ful{
+    width: 30%;
+    margin-top:0;
+}
